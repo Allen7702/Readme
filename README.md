@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Allen Andrew</h1>
 <h3 align="center">A passionate FullStack developer from Tanzania</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=allen7702&label=Profile%20views&color=0e75b6&style=flat" alt="allen7702" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allen7702" alt="allen7702" /></a> </p>
-
 - 🔭 I’m currently working on **PTMS**
 
 - 🌱 I’m currently learning **Flutter,MongoDB**
